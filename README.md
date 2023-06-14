@@ -1,39 +1,15 @@
-# Amazon Alexa reviews sentiment analysis using machine learning
-## Prerequisites 
+# 💫 About Me:
+Hey, there 👋<br>I'm Kartik Borkar from Bhandara<br><br>- 📚 I'm currently learning Google Cloud<br>- ⚡ In my free time I listen to the music
 
-Python 3.5.0 + \
-matplotlib.pyplot \
-seaborn\
-pandas\
-numpy\
-scikit-learn\
-jupyter-notebook
 
-## Installation
-1. Python \
-    https://www.python.org/downloads/  
-After successfull installation of python..
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kartikb66&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartikb66&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikb66&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-2. jupyter-notebook \
-    https://jupyter.org/install
-3. Matplotlib\
-    pip3 install matplotlib (on pc) \
-    !pip install matplotlib (on jupyter) \
-    import matplotlib.pyplot as plt
-4. seaborn\
-    !pip install seaborn (on jupyter) \
-    pip3 install seaborn (on pc) \
-    import seaborn as sns
-5. pandas\
-    !pip install pandas (on jupyter) \
-    pip3 install pandas \
-    import pandas as pd
-6. numpy\
-    !pip install numpy (on jupyter) \
-    pip3 install numpy (on pc) \
-    import numpy as np
-7. scikit-learn\
-    !pip install scikit-learn (on jupyter)
-    pip3 install scikit-learn (on pc)
-\
-After successfully installing all above mentioned variables, you can launch the jupyter notebook and start by importing above mentioned libraries to your notebook.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=kartikb66&icon=0&color=0)](https://visitcount.itsvg.in)
