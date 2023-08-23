@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, there 👋<br>I'm Kartik Borkar from Bhandara<br><br>- 📚 I'm currently learning Google Cloud<br>- ⚡ In my free time I listen to the music
+Hey, there 👋<br>I'm Kartik Borkar from Bhandara<br><br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I listen to the music
 
 
 # 💻 Tech Stack:
